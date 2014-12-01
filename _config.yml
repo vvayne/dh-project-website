@@ -1,0 +1,33 @@
+# Site settings
+title: Silicon Street
+email: wayneshu@stanford.edu
+description: "Silicon Valley Meets Wall Street"
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Digital History
+  location: Stanford
+  social: Students
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/stanford-history/digitalhistory
+
+# Postal address (add as many lines as necessary)
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
+
+# Credits content
+credits: 'Thank you to Jason Heppler and all the other students in our Digital History course.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
