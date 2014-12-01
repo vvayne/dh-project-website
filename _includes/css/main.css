@@ -1,3 +1,9 @@
+
+.questions{
+  list-style-type: none;
+  font-size:20px;
+}
+
 .raw{
   color: brown;
 }
