@@ -34,3 +34,4 @@ credits: 'Thank you to Jason Heppler and all the other students in our Digital H
 # Build settings
 markdown: kramdown
 permalink: pretty
+baseurl: /dh-project-website
