@@ -17,8 +17,11 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: github
+    text: Digital History Class
     url: https://github.com/stanford-history/digitalhistory
+    title: github
+    text: This Project's Code
+    url: https://github.com/vvayne/dh-project-website
 
 # Postal address (add as many lines as necessary)
 # address:
