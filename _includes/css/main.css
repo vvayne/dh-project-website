@@ -1,8 +1,26 @@
-/*!
- * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
+.raw{
+  color: brown;
+}
+ .image-logos{
+ }
+
+ .openrefine{
+   margin-left:100px;
+ }
+
+ .playfair,.piketty{
+   margin-left: 100px;
+   margin-right: auto;
+ }
+
+
+ .tableau{
+   width:20em;
+ }
+
+.excel{
+  width: 7em;
+}
 
 body {
     overflow-x: hidden;
@@ -16,13 +34,19 @@ p.small {
     font-size: 16px;
 }
 
+
 a,
 a:hover,
 a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary-dark }};
+}
+
+li a,
+a:hover{
+  color: #{{site.color.primary}};
 }
 
 h1,
