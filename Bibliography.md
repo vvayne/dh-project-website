@@ -1,17 +1,17 @@
 # BIBLIOGRAPHY
 
 
-_Graphics 1 - 4 _
+Graphics 1 - 4 
 
 Ritter, Jay. "Initial Public Offerings: Technology Stock IPOs," Table 4. September 1, 2014. Accessed at <http://bear.warrington.ufl.edu/ritter/IPOs2013Tech.pdf> on 11/30/2014
 
-_Maps_
+Maps
 
 Ritter, Jay. "Internet IPOs,". Accessed at <http://bear.warrington.ufl.edu/ritter/Internet%20IPOs.xls> on 11/30/2014
 
-_Works Cited
+Works Cited
 
-_
+
 Barry, Christopher B., Chris J. Muscarella, John Peavy and Michael R. Vetsuypens*.* “The role of venture capital in the creation of public companies: Evidence from the going-public process,” Journal of Financial Economics 27.2 (October 1990): 447–471.
 
 Chang, Sea Jin.  “Venture capital financing, strategic alliances, and the initial public offerings of Internet startups.”* Journal of Business Venturing 19 *(2004): 721 – 741.
